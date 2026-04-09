@@ -16,4 +16,4 @@ I am always happy to connect with others interested in similar work. For collabo
 
 ## Current Projects
 
-Working with a team through the UC Davis DataLab on a project to consolidate water laws passed in California. My work includes web scraping, data cleaning, and data analysis.
+Working with a team through the UC Davis DataLab on a project to assess the current landscape of water laws passed in California. My work includes web scraping, data cleaning, and data analysis.
