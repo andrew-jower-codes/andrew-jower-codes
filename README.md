@@ -1,5 +1,5 @@
 
-About Me
+#About Me
 
 My name is Andrew Jower, and I am a fourth-year student at UC Davis pursuing a double major in Science & Technology Studies and Sociology: Organizational Studies.
 
