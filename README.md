@@ -12,6 +12,7 @@ I am always happy to connect with others interested in similar work. For collabo
 
 **Languages:** Java, Python, R, SQL  
 **Cloud / Infrastructure:** AWS (basic), Docker (basic), Terraform (basic), Linux (basic)
+
 **Other:** Excel
 
 ## Current Projects
