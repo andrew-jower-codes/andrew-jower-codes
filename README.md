@@ -1,4 +1,6 @@
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&lines=STS+%2B+Sociology+Student;Data+%2B+Organizations;AI+%2B+Society;UC+Davis)](https://git.io/typing-svg)
 # About Me
 
 My name is Andrew Jower, and I am a fourth-year student at UC Davis pursuing a double major in Science & Technology Studies and Sociology: Organizational Studies.
