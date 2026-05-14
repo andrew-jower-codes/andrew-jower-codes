@@ -1,7 +1,7 @@
 
 
 # About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&lines=Technology+%2B+Organizations+Society;Data+%2B+Plumber;AI+%2B+Operations+%2b+Management;University+Of+California+,+Davis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&lines=Technology+%2B+Organizations+Society;Data+%2B+Plumber;AI+%2B+Operations+%2b+Management;University+Of+California+,+Davis)](https://git.io/typing-svg)
 
 
 My name is Andrew Jower, and I am a fourth-year student at UC Davis pursuing a double major in Science & Technology Studies and Sociology: Organizational Studies.
